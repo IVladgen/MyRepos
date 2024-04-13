@@ -1,0 +1,15 @@
+C:\Users\Работа\Desktop\WorkProject\ToDoList\ToDoList.DAL\bin\Debug\net7.0\ToDoList.DAL.deps.json
+C:\Users\Работа\Desktop\WorkProject\ToDoList\ToDoList.DAL\bin\Debug\net7.0\ToDoList.DAL.dll
+C:\Users\Работа\Desktop\WorkProject\ToDoList\ToDoList.DAL\bin\Debug\net7.0\ToDoList.DAL.pdb
+C:\Users\Работа\Desktop\WorkProject\ToDoList\ToDoList.DAL\bin\Debug\net7.0\ToDoList.Domain.dll
+C:\Users\Работа\Desktop\WorkProject\ToDoList\ToDoList.DAL\bin\Debug\net7.0\ToDoList.Domain.pdb
+C:\Users\Работа\Desktop\WorkProject\ToDoList\ToDoList.DAL\obj\Debug\net7.0\ToDoList.DAL.csproj.AssemblyReference.cache
+C:\Users\Работа\Desktop\WorkProject\ToDoList\ToDoList.DAL\obj\Debug\net7.0\ToDoList.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Работа\Desktop\WorkProject\ToDoList\ToDoList.DAL\obj\Debug\net7.0\ToDoList.DAL.AssemblyInfoInputs.cache
+C:\Users\Работа\Desktop\WorkProject\ToDoList\ToDoList.DAL\obj\Debug\net7.0\ToDoList.DAL.AssemblyInfo.cs
+C:\Users\Работа\Desktop\WorkProject\ToDoList\ToDoList.DAL\obj\Debug\net7.0\ToDoList.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Работа\Desktop\WorkProject\ToDoList\ToDoList.DAL\obj\Debug\net7.0\ToDoList.DAL.csproj.CopyComplete
+C:\Users\Работа\Desktop\WorkProject\ToDoList\ToDoList.DAL\obj\Debug\net7.0\ToDoList.DAL.dll
+C:\Users\Работа\Desktop\WorkProject\ToDoList\ToDoList.DAL\obj\Debug\net7.0\refint\ToDoList.DAL.dll
+C:\Users\Работа\Desktop\WorkProject\ToDoList\ToDoList.DAL\obj\Debug\net7.0\ToDoList.DAL.pdb
+C:\Users\Работа\Desktop\WorkProject\ToDoList\ToDoList.DAL\obj\Debug\net7.0\ref\ToDoList.DAL.dll

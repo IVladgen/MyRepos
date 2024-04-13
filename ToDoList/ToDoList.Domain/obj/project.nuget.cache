@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "E+g8VLZ2ixH9mzVnFR/rLyJcs4FE+aFC/8Ndb5G9vP0UqKVlZKDv14L0e26B4I5bTUn5I3s/JDxJXP15/waXTw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Работа\\Desktop\\WorkProject\\ToDoList\\ToDoList.Domain\\ToDoList.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Работа\\.nuget\\packages\\csvhelper\\31.0.3\\csvhelper.31.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
